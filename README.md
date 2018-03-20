@@ -1,2 +1,8 @@
 # node-find-dividers-cli
-CLI for find-dividers.
+> :computer: CLI for find-dividers.
+
+## Related
+- [node-find-dividers](https://github.com/axelrindle/node-find-dividers)
+
+## License
+[MIT](LICENSE)
