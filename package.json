@@ -1,0 +1,37 @@
+{
+  "name": "find-dividers-cli",
+  "version": "1.0.0",
+  "description": "CLI for find-dividers.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "find-dividers": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelrindle/node-find-dividers-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "math",
+    "numbers",
+    "find",
+    "dividers"
+  ],
+  "author": "Axel Rindle <axel.rindle@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelrindle/node-find-dividers-cli/issues"
+  },
+  "homepage": "https://github.com/axelrindle/node-find-dividers-cli#readme",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "commander": "^2.15.1",
+    "find-dividers": "^1.0.1"
+  },
+  "devDependencies": {
+    "xo": "^0.20.3"
+  }
+}
