@@ -1,6 +1,6 @@
 {
   "name": "find-dividers-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI for find-dividers.",
   "main": "cli.js",
   "scripts": {
