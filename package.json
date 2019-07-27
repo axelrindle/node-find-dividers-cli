@@ -28,10 +28,8 @@
   "homepage": "https://github.com/axelrindle/node-find-dividers-cli#readme",
   "dependencies": {
     "columnify": "^1.5.4",
-    "commander": "^2.15.1",
-    "find-dividers": "^1.0.1"
+    "commander": "^2.20.0",
+    "find-dividers": "^1.0.2"
   },
-  "devDependencies": {
-    "xo": "^0.23.0"
-  }
+  "devDependencies": {}
 }
